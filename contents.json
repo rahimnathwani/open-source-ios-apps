@@ -139,6 +139,10 @@
       "parent": "media"
     },
     {
+      "title": "Networking",
+      "id": "networking"
+    },
+    {
       "title": "News",
       "id": "news"
     },
@@ -10830,5 +10834,16 @@
       "date_added": "Nov 9 2016",
       "suggested_by": "@JoshMcKeePNW"
     }
+    {
+      "title": "Potatso",
+      "category-ids": ["networking"],
+      "description": "Shadowsocks VPN client using NetworkExtension framework in iOS9 ",
+      "source": "https://github.com/shadowsocks/Potatso",
+      "itunes": "https://itunes.apple.com/app/apple-store/id1070901416"
+      "license": "gpl-3.0",
+      "date_added": "Nov 10 2016",
+      "suggested_by": "@RahimNathwani"
+    }
+
   ]
 }
